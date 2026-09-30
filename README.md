@@ -21,6 +21,13 @@ I have experience building multi-service systems involving **REST APIs, database
 
 Currently expanding my Python stack and diving deeper into **backend architecture, distributed systems and infrastructure**.
 
+## 📫 Contact
+
+Open to backend development opportunities and interesting projects.
+
+[![Telegram](https://img.shields.io/badge/Telegram-@timboiko2002-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/timboiko2002)
+[![Gmail](https://img.shields.io/badge/Gmail-email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timboiko2002@gmail.com)
+[![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-email-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)](mailto:timboiko2002@yandex.ru)
 
 ## 🛠 Tech Stack
 
